@@ -3,6 +3,7 @@ Prototype
 
 ## Steps to run:
 1. Clone this project and navigate to root folder
+`git clone https://github.com/berryman17/target-bot.git && cd target-bot`
 2. `npm install`
 3. Make a file using `example-products.csv` as a guide and save it
 somewhere in your file system
