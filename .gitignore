@@ -1,0 +1,6 @@
+.idea/
+node_modules/
+pics/*
+
+!pics/debug/placeholder.txt
+

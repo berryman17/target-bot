@@ -1,0 +1,15 @@
+{
+  "name": "target-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.15.4",
+    "puppeteer": "^9.1.1"
+  }
+}
